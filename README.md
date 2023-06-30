@@ -1,6 +1,6 @@
 # Unit Testing using Mocha and Chai : Two Sum
 ## About 
- This repo goes along with [THIS](hhtpetcetc) walk-through blog post on Medium
+ This repo goes along with [THIS](https://medium.com/@grace.nieboer/a-beginners-guide-to-unit-testing-f311469cdc2d?postPublishedType=initial) walk-through blog post on Medium
  ### Built With 
  - JavaScript
  - Mocha

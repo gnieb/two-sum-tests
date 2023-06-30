@@ -12,17 +12,18 @@ function twoSum(nums, target) {
 
 }
 
+// Uncomment this out to add your own tests! 
 
-if (require.main === module) {
-    // add your own tests in here
-    console.log("Expecting: [0,1]");
-    console.log("=>", twoSum([3, 5, 6, 12], 8) );
+// if (require.main === module) {
+//     // add your own tests in here
+//     console.log("Expecting: [0,1]");
+//     console.log("=>", twoSum([3, 5, 6, 12], 8) );
   
-    console.log("");
+//     console.log("");
   
-    console.log("Expecting: [0,3]");
-    console.log("=>", twoSum([3, 5, 6, 12], 15));
+//     console.log("Expecting: [0,3]");
+//     console.log("=>", twoSum([3, 5, 6, 12], 15));
 
-  }
+//   }
 
 module.exports = twoSum
